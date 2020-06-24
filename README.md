@@ -1,2 +1,3 @@
 # JavaScript-Calculator
-Calculator with JavaScript
+ Simple Calculator with JavaScript
+ Java Script function
